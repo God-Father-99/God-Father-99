@@ -18,7 +18,7 @@
 <a href="https://www.codechef.com/users/adityasahu99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityasahu99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditya23sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya23sahu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aditya_sahu_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_sahu_99" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/aditya sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aditya sahu" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@aditya23sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aditya sahu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aditya21zcv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditya21zcv" height="30" width="40" /></a>
 </p>
 
