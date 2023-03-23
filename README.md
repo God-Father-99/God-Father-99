@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityasahu82381" target="blank"><img src="https://img.shields.io/twitter/follow/adityasahu82381?logo=twitter&style=for-the-badge" alt="adityasahu82381" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack web dev**
+- 🌱 I’m currently learning **Data Structures And Algorithms**
 
 - 📫 How to reach me **adity23sahu@gmail.com**
 
