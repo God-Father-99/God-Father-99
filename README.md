@@ -1,8 +1,7 @@
-[MasterHead](https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif)
-
-<h1 align="center">Hi 👋, I'm Aditya Sahu</h1>
-
-<h3 align="center">A passionate Engineer from India</h3>
+<!--[![MasterHead](https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&lines=Hello+%F0%9F%91%8B%2C+I'm+Aditya+Sahu+)](https://git.io/typing-svg)
+<!--<h1 align="center">Hi 👋, I'm Aditya Sahu</h1>-->
+<h3 align="left">A passionate Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=god-father-99&label=Profile%20views&color=0e75b6&style=flat" alt="god-father-99" /> </p>
